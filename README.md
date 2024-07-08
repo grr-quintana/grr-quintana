@@ -1,4 +1,8 @@
-## Hi there 👋
+## Nice to see you here 👋 A little about me:
+
+- Love for gastronomy and different cultures
+- Passion for coffee
+- Constantly learning (starting with JS and Python) 
 
 <!--
 **grr-quintana/grr-quintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
